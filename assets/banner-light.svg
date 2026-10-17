@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="t d">
+  <title id="t">Malki Aman — Data Analyst, AI Automation Engineer, Web Solutions Engineer</title>
+  <desc id="d">Banner reading Malki Aman, Data Analyst, AI Automation Engineer and Web Solutions Engineer, Islamabad, Pakistan, with a small pipeline diagram of data being collected, validated and automated.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#eef1f4" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a7f37"/>
+      <stop offset="1" stop-color="#0969da"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="16" fill="#ffffff"/>
+  <rect width="1280" height="320" rx="16" fill="url(#grid)"/>
+  <rect width="1280" height="320" rx="16" fill="url(#fade)"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="16" fill="none" stroke="#d0d7de"/>
+
+  <rect x="72" y="88" width="6" height="144" rx="3" fill="url(#accent)"/>
+  <text x="104" y="146" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#1f2328" letter-spacing="-1.5">Malki Aman</text>
+  <text x="106" y="190" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="500" fill="#31373e">Data Analyst · AI Automation Engineer · Web Solutions Engineer</text>
+  <text x="106" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#59636e">Python · SQL · Power BI · n8n · React · FastAPI   —   Islamabad, PK</text>
+
+  <!-- pipeline: collect → validate → automate -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#59636e" text-anchor="middle">
+    <path d="M940 160H1012M1088 160H1160" stroke="#d0d7de" stroke-width="2" stroke-dasharray="6 6"/>
+    <g transform="translate(902 160)">
+      <circle r="38" fill="#f6f8fa" stroke="#1a7f37" stroke-width="2"/>
+      <ellipse cx="0" cy="-11" rx="14" ry="5" fill="none" stroke="#1a7f37" stroke-width="2"/>
+      <path d="M-14 -11V11C-14 14 -8 16 0 16S14 14 14 11V-11M-14 0C-14 3 -8 5 0 5S14 3 14 0" fill="none" stroke="#1a7f37" stroke-width="2"/>
+      <text y="66">collect</text>
+    </g>
+    <g transform="translate(1050 160)">
+      <circle r="38" fill="#f6f8fa" stroke="#0969da" stroke-width="2"/>
+      <path d="M0 -17L14 -11V0C14 9 7 15 0 18C-7 15 -14 9 -14 0V-11Z" fill="none" stroke="#0969da" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M-6 0L-1 5L7 -4" fill="none" stroke="#0969da" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text y="66">validate</text>
+    </g>
+    <g transform="translate(1198 160)">
+      <circle r="38" fill="#f6f8fa" stroke="#8250df" stroke-width="2"/>
+      <path d="M3 -18L-10 3H0L-3 18L10 -3H0Z" fill="none" stroke="#8250df" stroke-width="2" stroke-linejoin="round"/>
+      <text y="66">automate</text>
+    </g>
+  </g>
+</svg>
