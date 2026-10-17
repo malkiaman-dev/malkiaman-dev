@@ -12,7 +12,7 @@
 <h3 align="center">I turn messy data and repetitive work into reliable, automated systems.</h3>
 
 <p align="center">
-  Data Analyst and Automation Engineer with 2+ years of experience building data-quality pipelines, AI-powered workflows<br>
+  Data Analyst and Automation Engineer with 2+ years of experience building data-quality pipelines, AI-powered workflows
   and web applications with Python, SQL, Power BI, React and n8n — across survey operations, healthcare AI, agriculture and lead generation.
 </p>
 
